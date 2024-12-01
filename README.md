@@ -1,1 +1,3 @@
-IyBTbWFydCBQYXJjZWwgVmFsaWRhdG9yCgpBIFJlYWN0IGNvbXBvbmVudCBmb3IgdmFsaWRhdGluZyBwYXJjZWwgemlwIGNvZGVzIGFuZCBkaXNwbGF5aW5nIGxvY2F0aW9uIGRldGFpbHMuCg==
+# Smart Parcel Validator
+
+A React component for validating parcel zip codes and displaying location details.
